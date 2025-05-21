@@ -19,11 +19,6 @@ Dado un array de números enteros y un número objetivo (`requiredSum`), se debe
 - **Lenguaje:** JavaScript
 - **Entorno de ejecución:** Node.js
 
-## 📁 Estructura del Proyecto
-
-- `pigmalion.js`: Contiene la implementación de la función que resuelve el problema.
-- `readme.txt`: Archivo con información adicional sobre el proyecto.
-
 ## 🚀 Cómo Ejecutar el Proyecto
 
 1. **Clona el repositorio:**
@@ -45,7 +40,3 @@ Dado un array de números enteros y un número objetivo (`requiredSum`), se debe
    ```
 
    Asegúrate de tener Node.js instalado en tu sistema.
-
-## 📌 Notas Adicionales
-
-Este proyecto fue desarrollado por [Felivander](https://github.com/Felivander), estudiante de desarrollo en Digital House, con interés en el desarrollo y diseño web.
